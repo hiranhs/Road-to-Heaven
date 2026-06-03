@@ -20,15 +20,18 @@
 ## 📸 Screenshots
 
 ### Level 1: The Underworld
-![Level 1](github_assets/level1.png)
+<img width="1280" height="718" alt="level1" src="https://github.com/user-attachments/assets/e4eb0e0c-4bbe-4781-8cbd-181bee905846" />
+
 *Escape the boiling magma pits and survive the obsidian rocks.*
 
 ### Level 2: The Mossy Cave
-![Level 2](github_assets/level2.png)
+<img width="1267" height="728" alt="level2" src="https://github.com/user-attachments/assets/544f44b2-4ae4-4cee-b5e5-045c1ba6e3f7" />
+
 *Navigate the dark, crumbling caverns while avoiding the Grim Reaper.*
 
 ### Level 3: The Mystical Forest
-![Level 3](github_assets/level3.png)
+<img width="1275" height="713" alt="level3" src="https://github.com/user-attachments/assets/5d7e78b4-e64c-4853-99c0-b0a26f52cceb" />
+
 *Cross the magical rivers and jump across the trees to reach the exit.*
 
 ---
