@@ -1,6 +1,7 @@
 # 👼 Road To Heaven
 
-![Game Banner](github_assets/banner.jpg)
+![Uploading banner.jpg…]()
+
 
 **Road To Heaven** is an epic 2D side-scrolling platformer where you play as a brave explorer fighting your way out of the depths of the underworld to reach the golden gates of paradise! Dodge boiling magma, escape the Grim Reaper, and collect magical gems across three completely unique environments.
 
