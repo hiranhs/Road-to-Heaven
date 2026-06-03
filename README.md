@@ -18,7 +18,7 @@
 ## 📸 Screenshots
 
 ### Level 1: The Underworld
-![Level 1](github_assets/level1.png)
+![Level 1](github_assets/level1.jpg)
 *Escape the boiling magma pits and survive the obsidian rocks.*
 
 ### Level 2: The Mossy Cave
