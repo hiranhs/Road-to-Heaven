@@ -15,8 +15,7 @@
 *   **Custom Physics & Hazards:** Ride ping-pong moving platforms, dodge instant-death magma pits, and avoid the flying Grim Reaper enemies!
 *   **Dynamic Audio:** Immersive sound effects and background music for every level.
 
-Vide Linkedin: https://www.linkedin.com/posts/tharinduhiran_unity3d-gamedev-csharp-ugcPost-7469999053922013184-kcea/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFZIuTUBXeWbqNYge8Lczh11CxsRrs9B-V4
-
+Vide Linkedin: https://www.linkedin.com/posts/tharinduhiran_gamedevelopment-unity3d-csharp-ugcPost-7471080123102953472-dyS4/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFZIuTUBXeWbqNYge8Lczh11CxsRrs9B-V4
 ---
 
 ## 📸 Screenshots
