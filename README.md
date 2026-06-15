@@ -1,6 +1,3 @@
-https://github.com/user-attachments/assets/1243cb6c-c4c5-4156-87ff-cdd58a506a5f
-Uploading Game Road To Heaven.mp4…
-
 # 👼 Road To Heaven
 
 <img width="2752" height="1536" alt="banner" src="https://github.com/user-attachments/assets/a3ae6967-1006-4ef6-b666-6bfc30c14eec" />
@@ -17,6 +14,8 @@ Uploading Game Road To Heaven.mp4…
 *   **Cinematic Cutscenes:** Includes a high-quality video intro cutscene and a funny ending cutscene when you finally reach Heaven's toll booth!
 *   **Custom Physics & Hazards:** Ride ping-pong moving platforms, dodge instant-death magma pits, and avoid the flying Grim Reaper enemies!
 *   **Dynamic Audio:** Immersive sound effects and background music for every level.
+
+Vide Linkedin: https://www.linkedin.com/posts/tharinduhiran_unity3d-gamedev-csharp-ugcPost-7469999053922013184-kcea/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFZIuTUBXeWbqNYge8Lczh11CxsRrs9B-V4
 
 ---
 
